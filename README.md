@@ -1,1 +1,1 @@
-# For Preview click [Here](jdschatroom.herokuapp.com)
+# For Preview click [Here](http://jdschatroom.herokuapp.com/)
